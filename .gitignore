@@ -219,3 +219,6 @@ __marimo__/
 
 #environment
 venv/
+
+#zip file
+Kidney_Classification_cnn.zip
